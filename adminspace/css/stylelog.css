@@ -1,0 +1,18 @@
+.login-form{
+  text-align: center;
+  padding: 40px 40px 40px 0px;
+  height: 100%;
+
+}
+
+.form-log{
+  margin: 30px 30px 30px 30px;
+}
+
+.pseudo{
+  color: white;
+}
+
+body{
+    background-color: #00CC99;
+}

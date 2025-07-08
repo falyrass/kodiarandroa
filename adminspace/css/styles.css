@@ -1,0 +1,62 @@
+body{
+    background-color: #00CC99;
+}
+
+.menu1{
+  float: left;
+  width: 200px;
+  height: auto;
+}
+
+.list-group-item:hover{
+  background-color: #ccc;
+}
+
+
+.menu2{
+  float: left;
+  width: 200px;
+  height: auto;
+}
+
+.vertical-menu {
+  height: auto;
+  overflow-y: scroll;
+}
+
+.vertical-menu li {
+  background-color: #eee; /* Grey background color */
+  color: black; /* Black text color */
+  display: block; /* Make the links appear below each other */
+  padding: 12px; /* Add some padding */
+  text-decoration: none; /* Remove underline from links */
+}
+
+.vertical-menu li:hover {
+  background-color: #ccc; /* Dark grey background on mouse-over */
+}
+
+.vertical-menu li.active {
+  background-color: #4CAF50; /* Add a green color to the "active/current" link */
+  color: white;
+}
+
+.nav2{
+  float: left;
+  width: 200px;
+  height: auto;
+}
+
+.navbar{
+  height: 100px;
+  padding-top: 20px;
+}
+
+#contenu{
+  float: left;
+  width: 700px;
+  padding-bottom: 30px;
+  padding: 0 0 0 40px;
+}
+
+
